@@ -1,6 +1,4 @@
-# VaccineManagementSystem
-
-Vaccine Management System
+# Vaccine Management System
 
 
 Welcome to the Vaccine Management System project! This system is developed using the fundamental principles of programming in C++. It serves as a comprehensive solution for efficient vaccine management, enabling hospitals to streamline their operations and improve patient care.
